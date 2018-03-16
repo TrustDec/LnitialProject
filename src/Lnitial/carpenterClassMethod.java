@@ -1,6 +1,7 @@
 package Lnitial;
 
 
+import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
@@ -148,9 +149,20 @@ public class carpenterClassMethod {
         System.out.println(consdemo.x+consdemo.x);
     }
 
-    public static void main(String[] args)
+    public static void main(String[] args) throws IOException
     {
-        Basis();
+//        Basis();
+        char c;
+        String str;
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        System.out.println("输入字符, 按下 'q' 键退出。");
+        // 读取字符
+        do {
+//            c = (char) br.readLine();
+            str = br.readLine();
+            System.out.println(str);
+        } while(!str.equals("end"));
+//        http://www.runoob.com/java/java-files-io.html
     }
 
 }
