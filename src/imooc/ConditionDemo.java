@@ -21,5 +21,6 @@ public class ConditionDemo {
         }else{
             System.out.println(n+"是奇数");
         }
+
     }
 }
