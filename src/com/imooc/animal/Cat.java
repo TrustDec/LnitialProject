@@ -2,8 +2,16 @@ package com.imooc.animal;
 
 public class Cat extends Animal{
     private double weight;
-    public Cat(){
 
+    public static int st3 = 44;
+    static{
+        System.out.println("我是子类的静态代码块");
+    }
+    {
+        System.out.println("我是子类的构造代码块");
+    }
+    public Cat(){
+        System.out.println("我是子类的构造方法");
     }
 
     public double getWeight() {
