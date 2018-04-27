@@ -1,5 +1,8 @@
 package com.imooc.animal;
-
+//final class:该类没有子类 public final \ final public class
+// final 方法：该方法不允许被子类重写 但是可以正常被子类继承使用
+// final 方法内部局部变量：只要在具体被使用之前进行赋值即可，一旦赋值不允许被修改
+//类中成员属性：赋值过程：1、定义直接初始化 2、构造方法 3、构造代码块
 public class Animal {
     /**
      * private:只允许在本类中进行访问
@@ -50,4 +53,5 @@ public class Animal {
     public void eat(){
         System.out.println(this.getName()+"在吃东西");
     }
+
 }

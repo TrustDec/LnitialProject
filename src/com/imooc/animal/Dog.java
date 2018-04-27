@@ -31,6 +31,7 @@ public class Dog extends Animal {
     private String sleep(String name){
         return "";
     }
+    @Override
     public void eat(){
         System.out.println(this.getName()+"最近没有食欲～");
     }
