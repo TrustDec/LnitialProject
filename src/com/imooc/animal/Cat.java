@@ -1,19 +1,15 @@
 package com.imooc.animal;
 
-public class Cat extends Animal{
+public class Cat extends Animal {
+//    属性：体重
     private double weight;
-
-    public static int st3 = 44;
-    static{
-        System.out.println("我是子类的静态代码块");
-    }
-    {
-        System.out.println("我是子类的构造代码块");
-    }
     public Cat(){
-        System.out.println("我是子类的构造方法");
-    }
 
+    }
+    public Cat(String name,int month,double weight){
+        super(name,month);
+        this.weight=weight;
+    }
     public double getWeight() {
         return weight;
     }
@@ -21,7 +17,15 @@ public class Cat extends Animal{
     public void setWeight(double weight) {
         this.weight = weight;
     }
-    public void  run(){
-        System.out.println(this.getName()+"是一只"+this.getSpecies()+",他在快乐的奔跑");
+
+
+//    方法：跑动
+    public void run(){
+        System.out.println("小猫快乐的奔跑");
+    }
+//    方法吃东西
+    @Override
+    public void eat(){
+        System.out.println("猫吃鱼～～～");
     }
 }
