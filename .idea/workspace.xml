@@ -2,86 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fb63f15-e6cb-4127-b7e4-bb269ac815d5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/imooc/test/Test.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/Lnitial/BreakSentence.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/Lnitial/ClassTypeConvert.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/Lnitial/ConsDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/Lnitial/Employee.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/Lnitial/InstanceCounter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/Lnitial/Logger.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/Lnitial/PrimitiveTypeTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/Lnitial/PrintMax.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/Lnitial/Puppy.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/Lnitial/carpenterClassMethod.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/StreamAndFile/BRRead.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/com/imooc/animal/Animal.class" afterPath="$PROJECT_DIR$/out/production/LnitialProject/com/imooc/animal/Animal.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/com/imooc/animal/Cat.class" afterPath="$PROJECT_DIR$/out/production/LnitialProject/com/imooc/animal/Cat.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/com/imooc/animal/Dog.class" afterPath="$PROJECT_DIR$/out/production/LnitialProject/com/imooc/animal/Dog.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/com/imooc/model/Student.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/com/imooc/model/Subject.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/com/imooc/singleton/SingletonOne.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/com/imooc/singleton/SingletonTwo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/com/imooc/singleton/Test.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/com/imooc/test/SchoolTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/com/imooc/test/TestTwo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/com/imooc/zuoye/OfficeOA.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/com/imooc/zuoye/OfficeOATest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/imooc/ConditionDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/imooc/FloatDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/imooc/GuessDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/imooc/StarDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/imooc/StringDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/imooc/VarDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/imooc/method/MathDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/imooc/method/methodDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/imoocObject/Book.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/imoocObject/BookTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/imoocObject/Code.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/imoocObject/CodeBlock.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/imoocObject/Test.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/imoocObject/User.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/imoocObject/UserManager.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/LnitialProject/imoocworkOne/ManageArray.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Lnitial/BreakSentence.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Lnitial/ClassTypeConvert.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Lnitial/ConsDemo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Lnitial/Employee.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Lnitial/InstanceCounter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Lnitial/Logger.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Lnitial/PrimitiveTypeTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Lnitial/PrintMax.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Lnitial/Puppy.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Lnitial/carpenterClassMethod.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/StreamAndFile/BRRead.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/com/imooc/animal/Animal.java" afterPath="$PROJECT_DIR$/src/com/imooc/animal/Animal.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/imooc/animal/Cat.java" afterPath="$PROJECT_DIR$/src/com/imooc/animal/Cat.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/imooc/animal/Dog.java" afterPath="$PROJECT_DIR$/src/com/imooc/animal/Dog.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/imooc/model/Student.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/imooc/model/Subject.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/imooc/singleton/SingletonOne.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/imooc/singleton/SingletonTwo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/imooc/singleton/Test.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/imooc/test/SchoolTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/imooc/test/TestTwo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/imooc/zuoye/OfficeOA.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/imooc/zuoye/OfficeOATest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/imooc/ConditionDemo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/imooc/FloatDemo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/imooc/GuessDemo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/imooc/StarDemo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/imooc/StringDemo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/imooc/VarDemo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/imooc/method/MathDemo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/imooc/method/methodDemo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/imoocObject/Book.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/imoocObject/BookTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/imoocObject/Code.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/imoocObject/CodeBlock.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/imoocObject/Test.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/imoocObject/User.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/imoocObject/UserManager.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/imoocworkOne/ManageArray.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -105,22 +26,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/imooc/animal/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="498">
+              <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
               <folding>
-                <element signature="e#272#273#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -129,8 +48,8 @@
       <file leaf-file-name="Cat.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/imooc/animal/Cat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+            <state relative-caret-position="366">
+              <caret line="22" column="11" lean-forward="false" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
               <folding>
                 <element signature="e#269#270#0" expanded="true" />
                 <element signature="e#298#299#0" expanded="true" />
@@ -164,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/imooc/test/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <state relative-caret-position="176">
+              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -245,10 +164,10 @@
         <option value="$PROJECT_DIR$/src/com/imooc/singleton/SingletonOne.java" />
         <option value="$PROJECT_DIR$/src/com/imooc/singleton/Test.java" />
         <option value="$PROJECT_DIR$/src/com/imooc/singleton/SingletonTwo.java" />
-        <option value="$PROJECT_DIR$/src/com/imooc/animal/Animal.java" />
         <option value="$PROJECT_DIR$/src/com/imooc/animal/Dog.java" />
         <option value="$PROJECT_DIR$/src/com/imooc/animal/Cat.java" />
         <option value="$PROJECT_DIR$/src/com/imooc/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/imooc/animal/Animal.java" />
       </list>
     </option>
   </component>
@@ -265,8 +184,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="733" />
-    <option name="y" value="22" />
+    <option name="x" value="358" />
+    <option name="y" value="127" />
     <option name="width" value="1313" />
     <option name="height" value="838" />
   </component>
@@ -584,12 +503,12 @@
       <workItem from="1524061002238" duration="6047000" />
       <workItem from="1524144861756" duration="4074000" />
       <workItem from="1524204967899" duration="198000" />
-      <workItem from="1525270303577" duration="3094000" />
+      <workItem from="1525270303577" duration="4583000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85892000" />
+    <option name="totallyTimeSpent" value="87381000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -601,7 +520,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="733" y="22" width="1313" height="838" extended-state="0" />
+    <frame x="358" y="127" width="1313" height="838" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -613,11 +532,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23258306" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3580081" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3580081" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12037765" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12037765" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296417" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -633,6 +552,36 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
+      <window_info id="Module Dependencies" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296417" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39871383" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33118972" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23258306" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3580081" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12037765" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -989,10 +938,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/imooc/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/imooc/animal/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        <state relative-caret-position="366">
+          <caret line="22" column="11" lean-forward="false" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
           <folding>
             <element signature="e#269#270#0" expanded="true" />
             <element signature="e#298#299#0" expanded="true" />
@@ -1008,29 +967,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/imooc/animal/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="498">
+          <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
           <folding>
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/imooc/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
           </folding>
         </state>
       </provider>

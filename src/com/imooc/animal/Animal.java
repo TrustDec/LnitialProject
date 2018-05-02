@@ -1,6 +1,6 @@
 package com.imooc.animal;
 
-public class Animal {
+public abstract class Animal {
 //    属性：昵称 ，年龄
     private String name;
     private int month;
@@ -28,7 +28,6 @@ public class Animal {
         this.month = month;
     }
 //    方法：吃东西
-    public void eat(){
-        System.out.println("动物都有吃东西的习惯");
-    }
+//    抽象方法：不允许包含方法体，子类中需要重写父类的抽象方法，否则子类也要成为抽象类
+    public abstract void eat();
 }
